@@ -1,6 +1,7 @@
 ![Image for short guide](https://source.unsplash.com/vkCyrRJsHss)
 
 https://github.com/grokkingcoding/quickest-nextjs-setup-ever.git
+git remote set-url origin git@grokkingcoding:grokkingcoding/quickest-nextjs-setup-ever.git
 
 # About
 
