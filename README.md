@@ -1,11 +1,12 @@
 ![Image for short guide](https://source.unsplash.com/vkCyrRJsHss)
 
-https://github.com/grokkingcoding/quickest-nextjs-setup-ever.git
-git remote set-url origin git@grokkingcoding:grokkingcoding/quickest-nextjs-setup-ever.git
-
 # About
 
 1. This guide will show you how to setup NextJS in the shortest amount of time as possible so you can start getting into the meat of your code!
+
+2. to clone this repo, you can go to:
+
+- https://github.com/grokkingcoding/quickest-nextjs-setup-ever.git
 
 # The Quickest NextJS Setup Guide
 
